@@ -1,0 +1,626 @@
+[
+  {
+    "opcode": 11,
+    "B": 52,
+    "C": 1000,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "52",
+      "1000"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1000,
+    "C": 0,
+    "D": 1000,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1000",
+      "0",
+      "1000"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 53,
+    "C": 1001,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "53",
+      "1001"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1001,
+    "C": 0,
+    "D": 1001,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1001",
+      "0",
+      "1001"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 54,
+    "C": 1002,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "54",
+      "1002"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1002,
+    "C": 0,
+    "D": 1002,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1002",
+      "0",
+      "1002"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 55,
+    "C": 1003,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "55",
+      "1003"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1003,
+    "C": 0,
+    "D": 1003,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1003",
+      "0",
+      "1003"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 56,
+    "C": 1004,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "56",
+      "1004"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1004,
+    "C": 0,
+    "D": 1004,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1004",
+      "0",
+      "1004"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 57,
+    "C": 1005,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "57",
+      "1005"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1005,
+    "C": 0,
+    "D": 1005,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1005",
+      "0",
+      "1005"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 58,
+    "C": 1006,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "58",
+      "1006"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1006,
+    "C": 0,
+    "D": 1006,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1006",
+      "0",
+      "1006"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 59,
+    "C": 1007,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "59",
+      "1007"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 1007,
+    "C": 0,
+    "D": 1007,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "1007",
+      "0",
+      "1007"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3,
+    "C": 2000,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3",
+      "2000"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2000,
+    "C": 0,
+    "D": 2000,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2000",
+      "0",
+      "2000"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 1,
+    "C": 2001,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "1",
+      "2001"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2001,
+    "C": 0,
+    "D": 2001,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2001",
+      "0",
+      "2001"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 4,
+    "C": 2002,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "4",
+      "2002"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2002,
+    "C": 0,
+    "D": 2002,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2002",
+      "0",
+      "2002"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 2,
+    "C": 2003,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "2",
+      "2003"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2003,
+    "C": 0,
+    "D": 2003,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2003",
+      "0",
+      "2003"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 1,
+    "C": 2004,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "1",
+      "2004"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2004,
+    "C": 0,
+    "D": 2004,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2004",
+      "0",
+      "2004"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3,
+    "C": 2005,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3",
+      "2005"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2005,
+    "C": 0,
+    "D": 2005,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2005",
+      "0",
+      "2005"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 2,
+    "C": 2006,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "2",
+      "2006"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2006,
+    "C": 0,
+    "D": 2006,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2006",
+      "0",
+      "2006"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 1,
+    "C": 2007,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "1",
+      "2007"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 2007,
+    "C": 0,
+    "D": 2007,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "2007",
+      "0",
+      "2007"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3000,
+    "C": 3000,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3000",
+      "3000"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3000,
+    "C": 0,
+    "D": 3000,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3000",
+      "0",
+      "3000"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3001,
+    "C": 3001,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3001",
+      "3001"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3001,
+    "C": 0,
+    "D": 3001,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3001",
+      "0",
+      "3001"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3002,
+    "C": 3002,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3002",
+      "3002"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3002,
+    "C": 0,
+    "D": 3002,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3002",
+      "0",
+      "3002"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3003,
+    "C": 3003,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3003",
+      "3003"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3003,
+    "C": 0,
+    "D": 3003,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3003",
+      "0",
+      "3003"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3004,
+    "C": 3004,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3004",
+      "3004"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3004,
+    "C": 0,
+    "D": 3004,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3004",
+      "0",
+      "3004"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3005,
+    "C": 3005,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3005",
+      "3005"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3005,
+    "C": 0,
+    "D": 3005,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3005",
+      "0",
+      "3005"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3006,
+    "C": 3006,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3006",
+      "3006"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3006,
+    "C": 0,
+    "D": 3006,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3006",
+      "0",
+      "3006"
+    ]
+  },
+  {
+    "opcode": 11,
+    "B": 3007,
+    "C": 3007,
+    "mnemonic": "LOAD_CONST",
+    "operands": [
+      "3007",
+      "3007"
+    ]
+  },
+  {
+    "opcode": 15,
+    "B": 3007,
+    "C": 0,
+    "D": 3007,
+    "mnemonic": "STORE_TO_MEM",
+    "operands": [
+      "3007",
+      "0",
+      "3007"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2000,
+    "C": 1000,
+    "D": 3000,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2000",
+      "1000",
+      "3000"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2001,
+    "C": 1001,
+    "D": 3001,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2001",
+      "1001",
+      "3001"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2002,
+    "C": 1002,
+    "D": 3002,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2002",
+      "1002",
+      "3002"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2003,
+    "C": 1003,
+    "D": 3003,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2003",
+      "1003",
+      "3003"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2004,
+    "C": 1004,
+    "D": 3004,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2004",
+      "1004",
+      "3004"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2005,
+    "C": 1005,
+    "D": 3005,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2005",
+      "1005",
+      "3005"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2006,
+    "C": 1006,
+    "D": 3006,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2006",
+      "1006",
+      "3006"
+    ]
+  },
+  {
+    "opcode": 13,
+    "B": 2007,
+    "C": 1007,
+    "D": 3007,
+    "mnemonic": "ROTR",
+    "operands": [
+      "2007",
+      "1007",
+      "3007"
+    ]
+  }
+]
