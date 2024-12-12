@@ -26,15 +26,15 @@ python main.py --repo <путь_к_репозиторию> --output <путь_к
 
 Пример вывода текста в консоль:
 
-<img width="800" alt="Picture_1" src="https://github.com/user-attachments/assets/d40de5ab-1155-4df7-b4e9-3100aead3f66">
+![img.png](img.png)
 
 Файл output_graph.dot:
 
-<img width="800" alt="Picture_1" src="https://github.com/user-attachments/assets/9a604028-9e2c-4925-bb52-b78595b1bcea">
+![img_1.png](img_1.png)
 
 Изображение графа output.png:
 
-<img width="800" alt="Picture_1" src="https://github.com/user-attachments/assets/16575a99-03e9-4053-9e69-32e59364d410">
+![img_2.png](img_2.png)
 
 ## Тестирование
 Для запуска тестов используйте модуль unittest:
