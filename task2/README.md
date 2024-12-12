@@ -39,9 +39,9 @@ python main.py --repo <путь_к_репозиторию> --output <путь_к
 ## Тестирование
 Для запуска тестов используйте модуль unittest:
 ```bash
-python -m unittest ../tests/tests2.py
+python -m unittest ./tests2.py
 ```
 
 Пример тестирования:
 
-<img width="800" alt="Picture_1" src="https://github.com/user-attachments/assets/61a770cd-7459-4a9a-9aeb-4e703dcd5adc">
+![img_3.png](img_3.png)
